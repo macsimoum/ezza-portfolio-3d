@@ -35,6 +35,7 @@ import nftMarketPlacePreview from "./nft-marketplac.png";
 import ezzaPortfolio from "./ezza-portfolio.png";
 import chatGptIranian from "./chat-gpt-iranian.png";
 import muiDashboard from "./dashboard.jpg";
+import ezza3dPortfolio from "./ezza-3d-portfolio.png";
 
 export {
   logo,
@@ -71,4 +72,5 @@ export {
   chatGptIranian,
   ezzaPortfolio,
   muiDashboard,
+  ezza3dPortfolio,
 };

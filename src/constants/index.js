@@ -29,6 +29,7 @@ import {
   chatGptIranian,
   ezzaPortfolio,
   muiDashboard,
+  ezza3dPortfolio,
 } from "../assets";
 
 export const navLinks = [
@@ -297,8 +298,8 @@ const projects = [
         color: "green-text-gradient",
       },
     ],
-    image: ezzaPortfolio,
-    source_code_link: "https://macsimoum.github.io/ezza-portfolio",
+    image: ezza3dPortfolio,
+    source_code_link: "https://github.com/macsimoum/ezza-portfolio-3d",
   },
   {
     name: "Trip Guide",
