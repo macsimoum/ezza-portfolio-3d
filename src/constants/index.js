@@ -299,7 +299,7 @@ const projects = [
       },
     ],
     image: ezza3dPortfolio,
-    source_code_link: "https://github.com/macsimoum/ezza-portfolio-3d",
+    source_code_link: "https://ezza-portfolio-3d.vercel.app/",
   },
   {
     name: "Trip Guide",
